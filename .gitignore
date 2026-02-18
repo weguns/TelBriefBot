@@ -1,5 +1,8 @@
 # dependencies (bun install)
 node_modules
+constants
+constants/**
+
 
 # output
 out
