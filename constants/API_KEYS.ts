@@ -1,6 +1,6 @@
 const API_KEYS = {
     telegramBot: "",
-    metisAi: "",
+    metisAi: "test",
 }
 
 export default API_KEYS;
