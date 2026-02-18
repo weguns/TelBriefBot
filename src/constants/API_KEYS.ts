@@ -3,6 +3,4 @@ const API_KEYS = {
     metisAi: Bun.env.METISAI_API_KEY,
 }
 
-console.log(API_KEYS)
-
 export default API_KEYS;
