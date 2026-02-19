@@ -1,5 +1,6 @@
 # dependencies (bun install)
 node_modules
+database/chats.sqlite
 
 # output
 out

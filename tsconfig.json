@@ -26,8 +26,14 @@
     "noPropertyAccessFromIndexSignature": false,
     "baseUrl": ".",
     "paths": {
-      "@constants/*": [
+      "#constants/*": [
         "src/constants/*"
+      ],
+      "#commands": [
+        "src/commands/index.ts"
+      ],
+      "#database": [
+        "src/database/index.ts"
       ]
     }
   }
